@@ -1,0 +1,27 @@
+{
+  "name": "ascii-skills",
+  "version": "1.0.0",
+  "description": "Terminal ASCII art and visualization skills — banners, diagrams, charts, animations",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/ascii-skills",
+  "repository": "https://github.com/full-statck-skills/ascii-skills",
+  "source": "./",
+  "skills": [
+    "./skills/ascii-ansi-colorizer",
+    "./skills/ascii-cli-logo-banner-figletjs",
+    "./skills/ascii-cli-logo-banner-python",
+    "./skills/ascii-cli-logo-banner",
+    "./skills/ascii-diagram-boxflow",
+    "./skills/ascii-image-to-ascii",
+    "./skills/ascii-mini-charts",
+    "./skills/ascii-motd-profile-banner",
+    "./skills/ascii-progress-and-spinner",
+    "./skills/ascii-table-renderer",
+    "./skills/ascii-terminal-animation-pack",
+    "./skills/ascii-text-art-library",
+    "./skills/cli-ascii-logo",
+  ]
+}
