@@ -77,7 +77,7 @@ User-facing documents have English + 简体中文 versions:
 ## Distribution
 
 ```bash
-npx skills add full-statck-skills/ascii-skills
+npx skills add full-stack-skills/ascii-skills
 ```
 
 Flat source distribution — no zip packaging needed.

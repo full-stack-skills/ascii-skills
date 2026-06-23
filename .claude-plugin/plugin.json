@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/ascii-skills",
-  "repository": "https://github.com/full-statck-skills/ascii-skills",
+  "homepage": "https://github.com/full-stack-skills/ascii-skills",
+  "repository": "https://github.com/full-stack-skills/ascii-skills",
   "source": "./",
   "skills": [
     "./skills/ascii-ansi-colorizer",
