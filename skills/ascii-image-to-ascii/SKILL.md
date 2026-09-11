@@ -1,7 +1,7 @@
 ---
 name: ascii-image-to-ascii
 description: Convert an image into ASCII art (readable + detail variants, width/charset controls, optional ANSI), for terminal previews and plain-text “image substitutes”.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
   - pillow

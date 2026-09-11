@@ -1,7 +1,7 @@
 ---
 name: ascii-cli-logo-banner
 description: Entry point for ASCII CLI banners. Choose the Python built-in font skill or the figlet.js/FIGfont skill depending on needs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

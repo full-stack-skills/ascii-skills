@@ -1,7 +1,7 @@
 ---
 name: ascii-motd-profile-banner
 description: Generate ASCII-only MOTD / SSH login banner / shell profile welcome messages (short/long variants, quiet mode guidance, security notices).
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 

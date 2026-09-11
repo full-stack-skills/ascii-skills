@@ -1,7 +1,7 @@
 ---
 name: ascii-ansi-colorizer
 description: Add an ANSI color layer to existing ASCII/plain-text output (gradient/rainbow/highlights) with alignment-safe rules and a required no-color fallback.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

@@ -1,7 +1,7 @@
 ---
 name: ascii-cli-logo-banner-python
 description: Generate copy-pastable ASCII banners with a built-in font (no external font deps), including compact fallback and optional ANSI 256 coloring for the logo.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

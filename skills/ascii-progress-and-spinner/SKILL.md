@@ -1,7 +1,7 @@
 ---
 name: ascii-progress-and-spinner
 description: Design ASCII progress bars and spinners for CLI UX (determinate/indeterminate, TTY single-line refresh, non-interactive log fallback) with copy-pastable style specs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

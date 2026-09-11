@@ -1,7 +1,7 @@
 ---
 name: ascii-mini-charts
 description: Generate ASCII mini charts (sparkline/bar/simple line) for plain-text trend inspection, with minimal + annotated variants and normalization notes.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

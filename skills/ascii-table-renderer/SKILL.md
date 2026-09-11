@@ -1,7 +1,7 @@
 ---
 name: ascii-table-renderer
 description: Render structured data as aligned ASCII tables (column width rules, truncate/wrap, border styles, compact/readable variants) for terminal/log/email.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

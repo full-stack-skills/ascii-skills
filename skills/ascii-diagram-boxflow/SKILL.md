@@ -1,7 +1,7 @@
 ---
 name: ascii-diagram-boxflow
 description: Generate plain ASCII box-flow diagrams (boxes + arrows) for environments without renderers, with alignment rules and split strategies for complex graphs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---

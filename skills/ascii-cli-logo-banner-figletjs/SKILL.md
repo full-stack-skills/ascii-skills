@@ -1,7 +1,7 @@
 ---
 name: ascii-cli-logo-banner-figletjs
 description: Generate TAAG/FIGlet-style ASCII art banners using figlet.js (FIGfont spec), with layout controls (horizontal/vertical layout, width, whitespaceBreak) and optional ANSI 256 coloring.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - node>=18
   - npm

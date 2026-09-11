@@ -1,7 +1,7 @@
 ---
 name: ascii-terminal-animation-pack
 description: Plan and generate terminal ASCII animations/screensaver-style output (FPS, refresh rules, loop policy, low-flicker guidance), with a static poster frame and an optional local demo script.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 dependencies:
   - python>=3.8
 ---
