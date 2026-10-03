@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Text Art Library"
+  short_description: "Generate a reusable ASCII-only text template library (titles…"
+  default_prompt: "Use $ascii-text-art-library to help with my current task: Generate a reusable ASCII-only text template library (titles, dividers, notice boxes, slogans/CTA), with naming conventions and selection rules for consistent CLI/log/README…"
+
+policy:
+  allow_implicit_invocation: false

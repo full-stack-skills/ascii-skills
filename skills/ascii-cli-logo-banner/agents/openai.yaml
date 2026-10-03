@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii CLI Logo Banner"
+  short_description: "Entry point for ASCII CLI banners"
+  default_prompt: "Use $ascii-cli-logo-banner to help with my current task: Entry point for ASCII CLI banners."
+
+policy:
+  allow_implicit_invocation: false

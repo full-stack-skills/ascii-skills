@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Ansi Colorizer"
+  short_description: "Add an ANSI color layer to existing ASCII/plain-text output…"
+  default_prompt: "Use $ascii-ansi-colorizer to help with my current task: Add an ANSI color layer to existing ASCII/plain-text output (gradient/rainbow/highlights) with alignment-safe rules and a required no-color fallback."
+
+policy:
+  allow_implicit_invocation: false

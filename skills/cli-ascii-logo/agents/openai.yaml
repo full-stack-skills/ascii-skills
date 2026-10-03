@@ -1,0 +1,4 @@
+interface:
+  display_name: "CLI Ascii Logo"
+  short_description: "生成 CLI 的 ASCII 艺术 Logo/Banner（支持 box drawing 边框、█ 块字符、ANSI 24…"
+  default_prompt: "使用 $cli-ascii-logo，围绕“生成 CLI 的 ASCII 艺术 Logo/Banner（支持 box drawing 边框、█ 块字符、ANSI 24”处理我的当前需求。"

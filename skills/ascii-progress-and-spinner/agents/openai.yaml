@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Progress And Spinner"
+  short_description: "Design ASCII progress bars and spinners for CLI UX…"
+  default_prompt: "Use $ascii-progress-and-spinner to help with my current task: Design ASCII progress bars and spinners for CLI UX (determinate/indeterminate, TTY single-line refresh, non-interactive log fallback) with copy-pastable style specs."
+
+policy:
+  allow_implicit_invocation: false

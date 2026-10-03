@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Image To Ascii"
+  short_description: "Convert an image into ASCII art (readable + detail variants…"
+  default_prompt: "Use $ascii-image-to-ascii to help with my current task: Convert an image into ASCII art (readable + detail variants, width/charset controls, optional ANSI), for terminal previews and plain-text “image substitutes”."
+
+policy:
+  allow_implicit_invocation: false

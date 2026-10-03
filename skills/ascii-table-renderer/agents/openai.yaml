@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Table Renderer"
+  short_description: "Render structured data as aligned ASCII tables (column width…"
+  default_prompt: "Use $ascii-table-renderer to help with my current task: Render structured data as aligned ASCII tables (column width rules, truncate/wrap, border styles, compact/readable variants) for terminal/log/email."
+
+policy:
+  allow_implicit_invocation: false

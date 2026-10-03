@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ascii Diagram Boxflow"
+  short_description: "Generate plain ASCII box-flow diagrams (boxes + arrows) for…"
+  default_prompt: "Use $ascii-diagram-boxflow to help with my current task: Generate plain ASCII box-flow diagrams (boxes + arrows) for environments without renderers, with alignment rules and split strategies for complex graphs."
+
+policy:
+  allow_implicit_invocation: false
